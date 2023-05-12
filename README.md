@@ -1,5 +1,7 @@
 ### Olá, meu nome é Daniel. 👋
 
+![DEV2DEV](https://img.shields.io/badge/DEV2DEV-Coder-%23000000)
+
 
 **dev2devtech/dev2devtech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
